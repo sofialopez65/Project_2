@@ -5,6 +5,7 @@ User Guide:
 - [Gantt Chart](https://github.com/sofialopez65/Project_2/blob/main/CIVE202_Spring2026_Group152-07_Project2_GANTT.pdf)
 - [Python Code](https://github.com/sofialopez65/Project_2/blob/main/CIVE202_Spring2026_Group152-07_Project2_PythonCode.ipynb)
 - [ACD](https://github.com/sofialopez65/Project_2/blob/main/CIVE202_Spring%202026_Group152-07_Project2_ACD.pdf)
-- [Technical Report]()
+- [Technical Report](https://github.com/sofialopez65/Project_2/blob/main/CIVE202_Spring2026_Group152-07_Project2_TechnicalReport.pdf)
+- 
  
 
